@@ -1,4 +1,9 @@
 <?php
+/*
+Author : Sugam Malviya
+project url : https://github.com/Sugamm/wateranna/ 
+*/
+
 require 'clockworksms/class-Clockwork.php';
 include ('phpcode/dbconfig.php');
 $orderid = $_GET['id'];

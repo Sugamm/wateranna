@@ -1,4 +1,8 @@
 <?php
+/*
+Author : Sugam Malviya
+project url : https://github.com/Sugamm/wateranna/ 
+*/
 if ($_SERVER["REQUEST_METHOD"] == "POST" ){
 		if (isset($_GET['uid']) && isset($_GET['phone']) && isset($_GET['uid'])) {
 			if ($_POST['code'] === $_GET['code']) {

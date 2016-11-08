@@ -1,3 +1,7 @@
+<!-- 
+Author : Sugam Malviya
+project url : https://github.com/Sugamm/wateranna/ 
+ -->
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST" ){
 	$location = $_POST['location'];
