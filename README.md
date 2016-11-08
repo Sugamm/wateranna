@@ -1,4 +1,4 @@
-# wateranna
+# Water Anna
 Cross Platform application for ordering water cans online.
 
 ## To install this in your computer
