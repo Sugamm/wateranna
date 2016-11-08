@@ -1,4 +1,4 @@
-# wateranna
+# Water Anna
 Cross Platform application for ordering water cans online.
 
 ## To install this in your computer
@@ -17,7 +17,11 @@ Cross Platform application for ordering water cans online.
 2. Select Number of water cans and time.
 ![alt tag](https://github.com/Sugamm/wateranna/blob/master/images/s2.png)
 
+<<<<<<< HEAD
 3. Login Screen.
 ![alt tag](https://github.com/Sugamm/wateranna/blob/master/images/s3.png)
 
 #Enjoy.
+=======
+#Enjoy.
+>>>>>>> 38eceb60d23ea78942c97b31b1721a72355eff3c
